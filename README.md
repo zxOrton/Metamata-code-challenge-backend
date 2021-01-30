@@ -15,6 +15,6 @@ Membuat media untuk berbagi cerita; website sederhana untuk membaca dan memposti
 - Composer
 
 ## Pengumpulan
-- Fork Repository ini secara private, kemudian beri read access pada [Qorthony](https://github.com/Qorthony) 
+- Fork Repository ini untuk mulai mengerjakan
 - WhatsApp saya jika sudah selesai atau ada yang ingin ditanyakan
 - Batas Pengumpulan H-1 dari jadwal interview 
