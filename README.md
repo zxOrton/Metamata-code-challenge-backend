@@ -1,4 +1,4 @@
-# Metamata-code-challenge
+# Metamata-code-challenge-backend
 
 Membuat media untuk berbagi cerita; website sederhana untuk membaca dan memposting cerita;
 
